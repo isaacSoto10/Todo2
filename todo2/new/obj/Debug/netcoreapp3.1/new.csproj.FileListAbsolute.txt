@@ -1,0 +1,13 @@
+C:\Users\isaac\OneDrive\Desktop\Wos_files\wos_webfundamentals\algo\new\obj\Debug\netcoreapp3.1\new.csprojAssemblyReference.cache
+C:\Users\isaac\OneDrive\Desktop\Wos_files\wos_webfundamentals\algo\new\obj\Debug\netcoreapp3.1\new.AssemblyInfoInputs.cache
+C:\Users\isaac\OneDrive\Desktop\Wos_files\wos_webfundamentals\algo\new\obj\Debug\netcoreapp3.1\new.AssemblyInfo.cs
+C:\Users\isaac\OneDrive\Desktop\Wos_files\wos_webfundamentals\algo\new\obj\Debug\netcoreapp3.1\new.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Desktop\Wos_files\Wos_webfundamentals\algo\new\bin\Debug\netcoreapp3.1\new.exe
+C:\Users\isaac\OneDrive\Desktop\Wos_files\Wos_webfundamentals\algo\new\bin\Debug\netcoreapp3.1\new.deps.json
+C:\Users\isaac\OneDrive\Desktop\Wos_files\Wos_webfundamentals\algo\new\bin\Debug\netcoreapp3.1\new.runtimeconfig.json
+C:\Users\isaac\OneDrive\Desktop\Wos_files\Wos_webfundamentals\algo\new\bin\Debug\netcoreapp3.1\new.runtimeconfig.dev.json
+C:\Users\isaac\OneDrive\Desktop\Wos_files\Wos_webfundamentals\algo\new\bin\Debug\netcoreapp3.1\new.dll
+C:\Users\isaac\OneDrive\Desktop\Wos_files\Wos_webfundamentals\algo\new\bin\Debug\netcoreapp3.1\new.pdb
+C:\Users\isaac\OneDrive\Desktop\Wos_files\Wos_webfundamentals\algo\new\obj\Debug\netcoreapp3.1\new.dll
+C:\Users\isaac\OneDrive\Desktop\Wos_files\Wos_webfundamentals\algo\new\obj\Debug\netcoreapp3.1\new.pdb
+C:\Users\isaac\OneDrive\Desktop\Wos_files\Wos_webfundamentals\algo\new\obj\Debug\netcoreapp3.1\new.genruntimeconfig.cache
